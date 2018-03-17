@@ -1,0 +1,22 @@
+body {
+    background: url("../assets/background.jpg");
+    height: 100%;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+
+.App {
+    text-align: center;
+}
+
+.right-button{
+    cursor: pointer;
+    float: right;
+}
+
+.list-item {
+    display: inline-block;
+}
